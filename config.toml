@@ -1,0 +1,22 @@
+baseURL = "https://blog.mast.dragon-fly.club/"
+languageCode = "zh-cmn-Hans"
+title = "Island 岛屿 - 官方博客"
+paginate = 6
+preserveTaxonomyNames = true
+pygmentsCodeFences = true
+pygmentsStyle = "dracula"
+
+[permalinks]
+  posts = "/posts/:slug/"
+
+[languages]
+  [languages.zh-cmn-Hans]
+    languageName = "简体中文"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    weight = 2
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
