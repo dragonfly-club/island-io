@@ -5,7 +5,9 @@
 <link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
 <link rel='stylesheet' href='/style.css'>
 <link rel='stylesheet' href='/fontawesome.css'>
+
 <script async defer data-website-id="21fc41f5-61b7-4fd6-9613-c17eb386d928" src="https://stats.dragon-fly.club/umami.js"></script>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HKE2SY8351"></script>
 <script>
@@ -15,7 +17,7 @@
 
   gtag('config', 'G-HKE2SY8351');
 </script>
-<script data-ad-client="ca-pub-9251082595386983" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
