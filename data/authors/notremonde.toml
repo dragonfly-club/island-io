@@ -1,0 +1,5 @@
+name = "NotreMonde"
+bio = "Maintainer and site owner of Island"
+
+[social]
+mastodon = "https://mast.dragon-fly.club/@NotreMonde"
