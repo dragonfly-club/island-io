@@ -35,7 +35,7 @@ tags:
 
 随着越来越多的中文长毛象社区成立，中文长毛象用户在刚刚过去的一个月里 (2022/4) 突破了 **10w+**，**活跃用户达到近 2w 人**。
 
-![中文长毛象宇宙统计 | Credit: *@mastdonbot@social.datalabour.com*](https://social.datalabour.com/system/media_attachments/files/108/221/575/044/184/547/original/65daf6411a103994.jpg)
+![中文长毛象宇宙统计 | Credit: *@mastdonbot@social.datalabour.com*](https://cdn.dragoncloud.win/island-blog/images/65daf6411a103994.jpg)
 
 ## 长毛象的优点
 
@@ -57,23 +57,23 @@ tags:
 
 这项数据还在呈指数级爆发增长，你的到来将会使长毛象宇宙更加丰富多彩。
 
-![长毛象宇宙统计数据 | Credit: *@mastodonusercount@bitcoinhackers.org*](https://cdn.masto.host/bitcoinhackers/media_attachments/files/108/232/468/638/050/163/original/8eb70cc694802cbc.png)
+![长毛象宇宙统计数据 | Credit: *@mastodonusercount@bitcoinhackers.org*](https://cdn.dragoncloud.win/island-blog/images/8eb70cc694802cbc.png)
 
 ### 超多有趣的自定义 Emojis
 
 在长毛象中，每一个社区都有着数不尽的自定义 Emojis，不必为某一个特定平台的独占表情包所困扰，在这里你可以一网打尽，如果你有创作功底，还可以为你的社区贡献表情包噢！
 
-![自定义Emoji预览](https://s1.ax1x.com/2022/05/02//Oi1Ph9.png)
+![自定义Emoji预览](https://cdn.dragoncloud.win/island-blog/images/Oi1Ph9.png)
 
-![自定义Emoji预览](https://s1.ax1x.com/2022/05/02//Oi19k4.png)
+![自定义Emoji预览](https://cdn.dragoncloud.win/island-blog/images/Oi19k4.png)
 
-![自定义Emoji预览](https://s1.ax1x.com/2022/05/02//Oi1CtJ.png)
+![自定义Emoji预览](https://cdn.dragoncloud.win/island-blog/images/Oi1CtJ.png)
 
-![自定义Emoji预览](https://s1.ax1x.com/2022/05/02//Oi1UAg.png)
+![自定义Emoji预览](https://cdn.dragoncloud.win/island-blog/images/Oi1UAg.png)
 
-![自定义Emoji预览](https://s1.ax1x.com/2022/05/02//Oi1e0O.png)
+![自定义Emoji预览](https://cdn.dragoncloud.win/island-blog/images/Oi1e0O.png)
 
-![自定义Emoji预览](https://s1.ax1x.com/2022/05/02//Oi109s.png)
+![自定义Emoji预览](https://cdn.dragoncloud.win/island-blog/images/Oi109s.png)
 
 <font color=grey>部分自定义 Emojis 一览</font>
 
@@ -89,7 +89,7 @@ tags:
 
 长毛象背后是开放的 [Activity Pub 协议](https://www.w3.org/TR/activitypub/)。如果你是一名开发者，借助 Activity Pub，你可以轻松将自己的设想落地成为现实。只需接入 Activity Pub 就可以与正在膨胀的长毛象宇宙原生互动，而无需向腾讯 / Twitter 交保护费。
 
-![长毛象背后的开放协议](https://s1.ax1x.com/2022/05/02/Oi9rOx.jpg)
+![长毛象背后的开放协议](https://cdn.dragoncloud.win/island-blog/images/Oi9rOx.jpg)
 
 ## 如何加入？
 

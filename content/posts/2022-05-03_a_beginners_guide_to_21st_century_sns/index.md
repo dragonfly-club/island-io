@@ -37,7 +37,7 @@ tags:
 
 选择社区时要记得**阅读其社区规则及用户条款**，如果社区开放了公共时间轴也可以点进去预览社区的嘟文主题与氛围。你可以在不同长毛象社区中开设小号，但请不要创建三无账号 (即**无头像、无昵称、无嘟文**)。体验一段时间后就可以在你喜爱的社区中开始你的旅程啦！
 
-![mstdn.social 主页](https://s1.ax1x.com/2022/05/01/OC3AUJ.png)
+![mstdn.social 主页](https://cdn.dragoncloud.win/island-blog/images/OC3AUJ.png)
 
 *附：长毛象社区列表*
 
@@ -52,7 +52,7 @@ Tip: 可在[长毛象导航 (*@list@mstdn.one*)](https://mstdn.one/@list/1082090
 
 长毛象宇宙中除**用户名**外还有一段**域名**作为你在平台中的 ID，我们不妨将其类比为邮箱地址：`holgerhuo@dragon-fly.club`。如果你在 `dragon-fly.club` 社区中注册了一个用户名为 `holgerhuo` 的账号，那么你的完整用户名就是 `@holgerhuo@dragon-fly.club`，这也是你在长毛象宇宙中的唯一 ID，和亲友分享你的账号时用这个 ID 就可以啦！
 
-<img src="https://s1.ax1x.com/2022/05/02/OP3w0U.png" alt="长毛象ID" style="zoom:50%;" />
+<img src="https://cdn.dragoncloud.win/island-blog/images/OP3w0U.png" alt="长毛象ID" style="zoom:50%;" />
 
 
 
@@ -61,7 +61,7 @@ Tip: 可在[长毛象导航 (*@list@mstdn.one*)](https://mstdn.one/@list/1082090
 
 打开想要注册社区的主页，填入用户名、邮箱地址 (推荐使用 Outlook/Gmail) 及密码，**阅读规则及服务条款**，如需填写入站理由请**根据要求认真填写**，随后点击注册就可以啦！
 
-<img src="https://s1.ax1x.com/2022/05/01/OCG5C9.png" alt="注册" style="zoom: 50%;" />
+<img src="https://cdn.dragoncloud.win/island-blog/images/OCG5C9.png" alt="注册" style="zoom: 50%;" />
 
 这时打开邮箱查收邮件 (如果没有收到可以**检查垃圾箱**；10 分钟后还没有收到可以在网页中检查你输入的邮件地址是否正确，更改地址或者请求重发；如果一天后仍没有收到确认邮件请向站长发送邮件确认)，然后点击**验证电子邮件地址**确认即可。
 
@@ -69,7 +69,7 @@ Tip: 可在[长毛象导航 (*@list@mstdn.one*)](https://mstdn.one/@list/1082090
 
 首次启动时，长毛象会为你推荐一些**近期发言活跃并且和其他用户互动较多**的账号，你可以根据他们的简介来关注感兴趣的嘟主，或是直接跳过进入~~空荡荡主页~~。
 
-![欢迎登岛！](https://s1.ax1x.com/2022/05/01/OCNyiF.png)
+![欢迎登岛！](https://cdn.dragoncloud.win/island-blog/images/OCNyiF.png)
 
 ### 选择客户端
 
@@ -77,13 +77,13 @@ Tip: 可在[长毛象导航 (*@list@mstdn.one*)](https://mstdn.one/@list/1082090
 
 电脑端推荐使用 *Chrome/Firefox/Edge/Safari 浏览器*来使用长毛象。打开网站后，浏览器会提示你是否**允许接受推送通知**；地址栏后方会有**添加到桌面**图标，大家可以根据自己的喜好是否添加。
 
-![电脑端配置](https://s1.ax1x.com/2022/05/01/OCU9Jg.png)
+![电脑端配置](https://cdn.dragoncloud.win/island-blog/images/OCU9Jg.png)
 
 #### 安卓端
 
 如果你的手机中装有 Chrome 可以直接在 Chrome 中打开社区并登录，屏幕下方会提示你将其**添加到主屏幕**，点击后稍等一下就可以在主页上看到长毛象图标啦！不要忘记打开通知权限来接收消息推送！
 
-![手机PWA安装](https://s1.ax1x.com/2022/05/01/OCU6Tf.png)
+![手机PWA安装](https://cdn.dragoncloud.win/island-blog/images/OCU6Tf.png)
 
 > Monado 嗼站有提供非常完善的 PWA 程序教程，大家可以选择阅读: https://docs.monado.ren/user/pwa/
 
@@ -91,25 +91,25 @@ Tip: 可在[长毛象导航 (*@list@mstdn.one*)](https://mstdn.one/@list/1082090
 
 打开 Tooot 官网 ([tooot.app](https://tooot.app/))；点击 `tooot-latest.apk`，随后安装应用并启动。在社区地址一栏填入你的社区并在弹出的浏览器窗口登录，同意授权就可以进入啦！
 
-![下载Tooot](https://s1.ax1x.com/2022/05/01/OCaitO.png)
+![下载Tooot](https://cdn.dragoncloud.win/island-blog/images/OCaitO.png)
 
-![tooot界面](https://s1.ax1x.com/2022/05/01/OC0nBR.png)
+![tooot界面](https://cdn.dragoncloud.win/island-blog/images/OC0nBR.png)
 
-![同意授权界面](https://s1.ax1x.com/2022/05/01/OC05CT.png)
+![同意授权界面](https://cdn.dragoncloud.win/island-blog/images/OC05CT.png)
 
-![Tooot主界面](https://s1.ax1x.com/2022/05/01/OCBkVI.png)
+![Tooot主界面](https://cdn.dragoncloud.win/island-blog/images/OCBkVI.png)
 
 #### iOS 端
 
 iOS 用户可以在 App Store 中搜索 *Metatext* 并下载第一个结果，安装启动后输入社区地址并在 Safari 中登录，然后就可以进入 Metatext 啦！
 
-![搜索Metatext](https://s1.ax1x.com/2022/05/01/OCDuY6.png)
+![搜索Metatext](https://cdn.dragoncloud.win/island-blog/images/OCDuY6.png)
 
-![登录Metatext](https://s1.ax1x.com/2022/05/01/OCDGmd.png)
+![登录Metatext](https://cdn.dragoncloud.win/island-blog/images/OCDGmd.png)
 
-![授权Metatext](https://s1.ax1x.com/2022/05/01/OCDRhV.png)
+![授权Metatext](https://cdn.dragoncloud.win/island-blog/images/OCDRhV.png)
 
-![Metatext主页](https://s1.ax1x.com/2022/05/01/OCDqtx.png)
+![Metatext主页](https://cdn.dragoncloud.win/island-blog/images/OCDqtx.png)
 
 ### 使用
 
@@ -117,15 +117,15 @@ iOS 用户可以在 App Store 中搜索 *Metatext* 并下载第一个结果，�
 
 如果你的好友向你发送的是**长毛象 ID**，如 `@holgerhuo@dragon-fly.club`，将其粘贴到搜索框中搜索就可以啦！如果你的好友发来的是链接，可以将链接粘贴至搜索框像 ID 一样搜索，或者用浏览器打开链接，点击关注，随后填入**你的长毛象 ID** 来继续操作：
 
-![搜索账户](https://s1.ax1x.com/2022/05/02/OFESLd.png)
+![搜索账户](https://cdn.dragoncloud.win/island-blog/images/OFESLd.png)
 
-![远程关注](https://s1.ax1x.com/2022/05/02/OFE5ff.png)
+![远程关注](https://cdn.dragoncloud.win/island-blog/images/OFE5ff.png)
 
 #### 转发 or 回复？
 
 刚来到长毛象的你可能会把转发与回复的图标搞混。在默认界面中，第一个**单箭头**按钮代表**回复**嘟文，第二个**循环双箭头**意味着**转发**。点击回复后会弹出撰写嘟文界面来进行回复；而点击转发则只会看到按钮的动画效果，没有其他提示。各位小伙伴们一定注意不要点错啦，不然会给嘟主留下一群只有 @了嘟主的空嘟文 orz。第三个小星星按钮是收藏 (即点赞)。
 
-![与嘟文互动](https://s1.ax1x.com/2022/05/01/OCrfUI.png)
+![与嘟文互动](https://cdn.dragoncloud.win/island-blog/images/OCrfUI.png)
 
 #### 主页、本站、跨站、探索？如何搜索嘟文？？
 
@@ -141,21 +141,21 @@ iOS 用户可以在 App Store 中搜索 *Metatext* 并下载第一个结果，�
 
 作为一款「微博」型社交平台，长毛象每条嘟文的字数限制为 500 字 (大部分社区都上调了字数限制)，你可以发布投票或者插入媒体文件，并为嘟文设置内容警告。如果上传了图片不要忘记给视障人群加上无障碍文字噢！
 
-![撰写嘟文](https://s1.ax1x.com/2022/05/01/OCc3dJ.png)
+![撰写嘟文](https://cdn.dragoncloud.win/island-blog/images/OCc3dJ.png)
 
-![设置无障碍文字](https://s1.ax1x.com/2022/05/01/OCcmR0.png)
+![设置无障碍文字](https://cdn.dragoncloud.win/island-blog/images/OCcmR0.png)
 
 某些情况下，你上传的视频可能会需要一定时间等待服务器转码；如果较长时间依旧没有响应可以尝试刷新后重试发送。使用 **Hashtag/@他人 / 表情短代码**时，请注意在代码前后插入空格，没有空格则不会解析，如下图：
 
-![未被成功解析的Hashtag/@/Emoji](https://s1.ax1x.com/2022/05/01/OC2ubF.png)
+![未被成功解析的Hashtag/@/Emoji](https://cdn.dragoncloud.win/island-blog/images/OC2ubF.png)
 
 #### 如何保护自己
 
 作为一款开放社交平台，你或许会因某些用户 / 嘟文感到不适。不要担心，长毛象有着健全的用户保护机制。遇到不喜欢的用户时，可以给他加急安排上隐藏 / 屏蔽。隐藏用户后，你将再也不会收到对方的信息或通知；如果屏蔽了对方，那么他也不能再看到你的资料与嘟文。如果这位用户违反了你所在社区的规定，可以直接举报用户，让其受到长毛象的制裁！
 
-![举报用户](https://s1.ax1x.com/2022/05/01/OCgAOO.png)
+![举报用户](https://cdn.dragoncloud.win/island-blog/images/OCgAOO.png)
 
-![举报嘟文](https://s1.ax1x.com/2022/05/01/OCgBcV.png)
+![举报嘟文](https://cdn.dragoncloud.win/island-blog/images/OCgBcV.png)
 
 ## 进阶使用
 

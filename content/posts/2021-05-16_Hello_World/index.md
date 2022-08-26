@@ -22,7 +22,7 @@ tags:
 
 不知不觉，本站的Mastodon实例已经走过了一整个**365**天啦～整整一年中，我们共迎来了**49**位用户在这里嘟出了**5.63K**嘟文。
 
-![image-20210516170129168](https://s1.ax1x.com/2022/05/03/OkcH61.png)
+![image-20210516170129168](https://cdn.dragoncloud.win/island-blog/images/OkcH61.png)
 
 无论是一开始Beta试运行时的较封闭**Notre Monde**，还是并入DragonFly Club后的**Island**，你们的陪伴都见证了**Island**的成长。
 
@@ -58,7 +58,7 @@ Island可以是一座属于你的岛屿，可以在岛上肆意建设，播种�
 
 生日快乐，Island！！愿新的一年与你创造更大的辉煌。
 
-![Island Stats](https://s1.ax1x.com/2022/05/03/Okgppd.png)
+![Island Stats](https://cdn.dragoncloud.win/island-blog/images/Okgppd.png)
 
 什么？看了那么久，你还不是Island 岛屿的注册用户？！！赶快点击[链接](https://mast.dragon-fly.club/invite/ZyXjzWSe)即可无需等待批准便加入Island！Island不仅可以是你一个人的岛屿，也是所有Mastodon用户的共同家园！
 
