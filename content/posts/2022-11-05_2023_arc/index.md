@@ -25,7 +25,7 @@ tags:
 
         首先，作为海洋世界中的一员，**旗帜(Logo)**当然是每座小岛的重要标志啦！欢迎你拿起画笔，为**Island岛屿**绘制出一幅独具特色的旗帜！作品请以**Mastodon长毛象标志**为主要背景，辅以**岛屿、灯塔、海洋**等元素，主题色自定(尽量不与Mastodon主题色#6364FF撞色)。不要忘记使用矢量图(SVG)创作噢！
 
-        **Lighthouse 灯塔**作为岛站守护神，默默在后台维护岛站安全运行，守候Islander出海航行。欢迎你为**Lighthouse 灯塔**设计一个崭新的人物形象！作品请以灯塔作为主要元素，画幅尺寸不低于293×205px，PNG格式投稿。成品将用于**[**Lighthouse 灯塔**](https://mast.dragon-fly.club/@NotreMonde)**账号头像及岛站Mascot(Web端嘟文撰写框下等区域会出现)w。
+        **Lighthouse 灯塔**作为岛站守护神，默默在后台维护岛站安全运行，守候Islander出海航行。欢迎你为**Lighthouse 灯塔**设计一个崭新的人物形象！作品请以灯塔作为主要元素，画幅尺寸不低于293×205px，PNG格式投稿。成品将用于[**Lighthouse 灯塔**](https://mast.dragon-fly.club/@NotreMonde)账号头像及岛站Mascot(Web端嘟文撰写框下等区域会出现)w。
 
         岛站一向秉承开放多元的联邦外交理念，积极在中文圈中推广Mastodon长毛象，维护着[联邦宇宙中继](https://relay.dragon-fly.club/)并与其他站长共享岛站运维经验及安全预警。欢迎你以联邦宇宙为主要构图并有机结合Island岛屿实例，设计一幅不小于600x100px的站点头图，作品将被用于岛站首页及默认外链缩略图w。
 
