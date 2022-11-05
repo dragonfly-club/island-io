@@ -21,7 +21,7 @@ tags:
 
         展信佳！
 
-        感谢你可以在[**Island岛屿**](https://mast.dragon-fly.club)中找到一块属于自己的小天地！自建站以来，身怀绝技的你用心建设自己的岛屿，在广阔的海洋中自由探索，使每座岛屿都充满生机；独具特色的小岛们不断涌现，共同组成了活泼有爱的**Island岛屿**社区。在此，**[**Lighthouse 灯塔**](https://mast.dragon-fly.club/@NotreMonde)**正式邀请你参加**2023 Island 岛屿年度换装活动**！
+        感谢你可以在[**Island岛屿**](https://mast.dragon-fly.club)中找到一块属于自己的小天地！自建站以来，身怀绝技的你用心建设自己的岛屿，在广阔的海洋中自由探索，使每座岛屿都充满生机；独具特色的小岛们不断涌现，共同组成了活泼有爱的**Island岛屿**社区。在此，[**Lighthouse 灯塔**](https://mast.dragon-fly.club/@NotreMonde)正式邀请你参加**2023 Island 岛屿年度换装活动**！
 
         首先，作为海洋世界中的一员，**旗帜(Logo)**当然是每座小岛的重要标志啦！欢迎你拿起画笔，为**Island岛屿**绘制出一幅独具特色的旗帜！作品请以**Mastodon长毛象标志**为主要背景，辅以**岛屿、灯塔、海洋**等元素，主题色自定(尽量不与Mastodon主题色#6364FF撞色)。不要忘记使用矢量图(SVG)创作噢！
 
@@ -39,10 +39,10 @@ tags:
 
 敬礼！
 
-      Island岛屿运维团队
+<div style="text-align:right">
+Island岛屿运维团队
 
 [@NotreMonde@dragon-fly.club](https://mast.dragon-fly.club/@NotreMonde)
-
-   [contact@dragon-fly.club](mailto:contact@dragon-fly.club)
-
-             11/5/22
+[contact@dragon-fly.club](mailto:contact@dragon-fly.club)<br>
+11/5/22
+</div>
