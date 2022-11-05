@@ -40,9 +40,5 @@ tags:
 敬礼！
 
 <div style="text-align:right">
-Island岛屿运维团队
-
-[@NotreMonde@dragon-fly.club](https://mast.dragon-fly.club/@NotreMonde)
-[contact@dragon-fly.club](mailto:contact@dragon-fly.club)<br>
-11/5/22
+Island岛屿运维团队<br><a href="https://mast.dragon-fly.club/@NotreMonde" target="_blank">@NotreMonde@dragon-fly.club</a><br><a href="mailto:contact@dragon-fly.club">contact@dragon-fly.club</a><br>11/5/22
 </div>
